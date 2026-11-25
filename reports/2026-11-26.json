@@ -1,0 +1,287 @@
+{
+  "briefing_date": "2026-11-26",
+  "effective_dates": [
+    "2026-11-25"
+  ],
+  "generated_at": "2026-11-26 00:21 KST",
+  "total_scanned": 119,
+  "selected_count": 16,
+  "model_used": "gemini-3.5-flash",
+  "headline": "AI 회의론 재부각 속 증시 혼조 및 실적·수주 기반 턴어라운드 종목 주목",
+  "market_mood": "혼조",
+  "kakao_summary": "[11/26 증권 리포트]\n시황: AI 회의론에 미 증시 혼조, 국내 증시는 코스피 5,000pt 돌파 후 바닥 통과 국면\n상향: 진에어(+42.9%, 3사 통합 및 시너지 260억)\n이슈: 에이디테크놀로지·롯데관광개발 목표가 하향 주의, LS머트리얼즈·지에프아이 턴어라운드 기대",
+  "market_overview": [
+    "엔비디아 CEO 복귀에도 AI 산업 투자 회의론 및 관세 인상 우려로 미 나스닥(-1.48%) 및 필라델피아 반도체 지수 급락",
+    "국내 증시는 코스피가 5,006.0pt(+6.3%)로 급등하며 외국인·기관 매수세로 반등, 메모리 중심 주주환원 미반영 및 밸류에이션 바닥 평가",
+    "미국 11월 소비자신뢰지수는 103.3으로 급등하였으나, 대중국 규제 및 수십 개국 대상 관세 인상 준비 등 매크로 불확실성 상존"
+  ],
+  "market_sources": [
+    {
+      "report_id": "M1",
+      "title": "11/25 KB 리서치 모닝코멘트",
+      "broker": "KB증권",
+      "category": "market",
+      "write_date": "2026-11-25",
+      "pdf_url": "https://stock.pstatic.net/stock-research/market/58/20261125_market_650952000.pdf",
+      "detail_url": "https://stock.naver.com/research/daily/38285"
+    },
+    {
+      "report_id": "M2",
+      "title": "[IBKS Daily] Morning Brief(261125)",
+      "broker": "IBK투자증권",
+      "category": "market",
+      "write_date": "2026-11-25",
+      "pdf_url": "https://stock.pstatic.net/stock-research/market/40/20261125_market_779700000.pdf",
+      "detail_url": "https://stock.naver.com/research/daily/38286"
+    },
+    {
+      "report_id": "M3",
+      "title": "Daily 신한생각 (11월25일)",
+      "broker": "신한투자증권",
+      "category": "market",
+      "write_date": "2026-11-25",
+      "pdf_url": "https://stock.pstatic.net/stock-research/market/21/20261125_market_174003000.pdf",
+      "detail_url": "https://stock.naver.com/research/daily/38290"
+    },
+    {
+      "report_id": "M4",
+      "title": "Daily Morning Brief(2026.11.25)",
+      "broker": "다올투자증권",
+      "category": "market",
+      "write_date": "2026-11-25",
+      "pdf_url": "https://stock.pstatic.net/stock-research/market/76/20261125_market_217603000.pdf",
+      "detail_url": "https://stock.naver.com/research/daily/38291"
+    },
+    {
+      "report_id": "M5",
+      "title": "[주황전략] 덜 반영된 환원, 더 반영된 공포. 바닥은 지났다",
+      "broker": "한화투자증권",
+      "category": "invest",
+      "write_date": "2026-11-25",
+      "pdf_url": "https://stock.pstatic.net/stock-research/invest/16/20261125_invest_51513000.pdf",
+      "detail_url": "https://stock.naver.com/research/invest/40953"
+    }
+  ],
+  "sector_highlights": [
+    {
+      "report_id": "I1",
+      "sector": "에너지",
+      "title": "2027 신재생에너지 연간전망: 옥석 가리기",
+      "broker": "교보증권",
+      "write_date": "2026-11-25",
+      "summary": "2026년 신재생 에너지 주가는 상반기 정책 기대 및 전력 쇼티지로 상승 후 하반기에 대부분 반납함. 2027년 주가는 단순 기대감이 아닌 실제 수주와 실적이 방향성을 결정할 전망임.",
+      "impact": "기대감 플레이 종료 후 실제 수주 및 실적 확인 가능한 옥석 가리기 진행 예상",
+      "pdf_url": "https://stock.pstatic.net/stock-research/industry/62/20261125_industry_890965000.pdf",
+      "detail_url": "https://stock.naver.com/research/industry/47214"
+    },
+    {
+      "report_id": "I2",
+      "sector": "게임/인터넷",
+      "title": "[IBKS Daily] 인터넷/게임",
+      "broker": "IBK투자증권",
+      "write_date": "2026-11-25",
+      "summary": "카카오게임즈가 신작 MMORPG '오딘Q'를 2027년 1월 26일 한국, 대만, 일본에 동시 출시할 예정임. 게임 업종은 2026년 밸류에이션 하락을 겪었으나 개별 신작 모멘텀에 따른 차별화 진행 중임.",
+      "impact": "신작 출시 일정 확정에 따른 카카오게임즈 및 관련 게임주 투자심리 영향",
+      "pdf_url": "https://stock.pstatic.net/stock-research/industry/40/20261125_industry_100741000.pdf",
+      "detail_url": "https://stock.naver.com/research/industry/47201"
+    },
+    {
+      "report_id": "I3",
+      "sector": "로봇/방산/조선",
+      "title": "안녕하세요 데일리에요 (로봇/방산/조선)",
+      "broker": "유진투자증권",
+      "write_date": "2026-11-25",
+      "summary": "과기정통부의 Next-X 휴머노이드 챌린지 및 주요 대기업의 로봇 인재 전진 배치가 진행 중임. 방산은 사우디 천궁-II 도입 전망 및 데이터센터 구축, 조선은 경영진 지분 매입 및 신용등급 상향 호재 반영.",
+      "impact": "정부 정책 지원 및 해외 수주 모멘텀 지속으로 섹터별 호재 작용",
+      "pdf_url": "https://stock.pstatic.net/stock-research/industry/63/20261125_industry_215043000.pdf",
+      "detail_url": "https://stock.naver.com/research/industry/47211"
+    },
+    {
+      "report_id": "I4",
+      "sector": "제약/바이오",
+      "title": "양보다 질",
+      "broker": "iM증권",
+      "write_date": "2026-11-25",
+      "summary": "2026년 코스피 상승 대비 KRX 헬스케어 지수는 -32%로 부진했으나, 이는 실적 악화보다는 코스닥 바이오텍의 임상 기대감 후퇴에 기인함. 대형 제약사는 상대적으로 선방함.",
+      "impact": "실적 기반 대형 제약사와 바이오텍 간 주가 차별화 지속",
+      "pdf_url": "https://stock.pstatic.net/stock-research/industry/61/20261125_industry_266615000.pdf",
+      "detail_url": "https://stock.naver.com/research/industry/47202"
+    }
+  ],
+  "target_up_picks": [
+    {
+      "report_id": "U1",
+      "stock_name": "진에어",
+      "stock_code": "272450",
+      "broker": "하나증권",
+      "write_date": "2026-11-25",
+      "title": "메가 LCC 출범, 매크로 턴어라운드에 통합 효과까지",
+      "tag": "목표가 상향",
+      "opinion": "Buy",
+      "goal_price": 10000,
+      "prev_goal_price": 7000,
+      "price_at_write": 7530,
+      "goal_change_pct": 42.9,
+      "upside_pct": 32.8,
+      "read_count": 2329,
+      "key_points": [
+        "목표주가를 기존 7,000원에서 10,000원으로 42.9% 상향 조정",
+        "2027년 3월 진에어/에어부산/에어서울 3사 통합 법인 출범 예정 (매출 3조원, 기재 60대 보유 국내 최대 LCC)",
+        "노선 및 스케줄 최적화, 시설 통합을 통해 연간 260억원 규모의 합병 시너지 기대"
+      ],
+      "risk_point": "통합 과정에서의 진통 및 단거리 노선 경쟁 심화 가능성 체크 필요",
+      "pdf_url": "https://stock.pstatic.net/stock-research/company/57/20261125_company_782901000.pdf",
+      "detail_url": "https://stock.naver.com/research/company/98467"
+    }
+  ],
+  "issue_stock_picks": [
+    {
+      "report_id": "S1",
+      "stock_name": "에이디테크놀로지",
+      "stock_code": "200710",
+      "broker": "교보증권",
+      "write_date": "2026-11-25",
+      "title": "변하지 않은 방향성, 늦어지는 증명",
+      "tag": "목표가 하향",
+      "opinion": "Buy",
+      "goal_price": 28000,
+      "prev_goal_price": 60000,
+      "price_at_write": 15470,
+      "goal_change_pct": -53.3,
+      "upside_pct": 81.0,
+      "read_count": 2491,
+      "key_points": [
+        "목표주가를 60,000원에서 28,000원으로 -53.3% 하향 조정",
+        "3Q26 매출액 252억원(YoY -31.5%), 영업적자 14억원으로 HBM 확보 난항 및 고객사 설계 지연으로 실적 이연",
+        "수주잔고는 연말 대비 20% 이상 확대되었으며, 선단 공정 비중 96% 및 AI 프로젝트 수주 75%로 해외 수주 성장세 지속"
+      ],
+      "risk_point": "HBM 수급 문제 및 설계 지연으로 인한 실적 인식 시점의 추가 이연 가능성",
+      "pdf_url": "https://stock.pstatic.net/stock-research/company/62/20261125_company_430584000.pdf",
+      "detail_url": "https://stock.naver.com/research/company/98477"
+    },
+    {
+      "report_id": "S2",
+      "stock_name": "롯데관광개발",
+      "stock_code": "032350",
+      "broker": "DS투자증권",
+      "write_date": "2026-11-25",
+      "title": "결국 좋은 업황을 따라갈 주가",
+      "tag": "목표가 하향",
+      "opinion": "매수",
+      "goal_price": 15000,
+      "prev_goal_price": 30000,
+      "price_at_write": 10060,
+      "goal_change_pct": -50.0,
+      "upside_pct": 49.1,
+      "read_count": 2569,
+      "key_points": [
+        "목표주가를 30,000원에서 15,000원으로 -50.0% 하향 조정",
+        "3Q26 카지노 매출 1,273억원(YoY -8.6%)으로 홀드율 하락에 따른 일시적 단기 실적 부진",
+        "3Q26 총 드롭액은 8,759억원으로 전년 및 전분기 대비 증가하였으며 9월 방문객 수 성장세 유지"
+      ],
+      "risk_point": "월 순매출 300억원 미달 시 이익 레버리지 효과 본격화 지연 위험",
+      "pdf_url": "https://stock.pstatic.net/stock-research/company/66/20261125_company_709258000.pdf",
+      "detail_url": "https://stock.naver.com/research/company/98480"
+    },
+    {
+      "report_id": "S3",
+      "stock_name": "코오롱인더",
+      "stock_code": "120110",
+      "broker": "DS투자증권",
+      "write_date": "2026-11-25",
+      "title": "3Q26 Re: 유가 안정을 기다릴 때",
+      "tag": "목표가 하향",
+      "opinion": "매수",
+      "goal_price": 70000,
+      "prev_goal_price": 130000,
+      "price_at_write": 34550,
+      "goal_change_pct": -46.2,
+      "upside_pct": 102.6,
+      "read_count": 2543,
+      "key_points": [
+        "목표주가를 130,000원에서 70,000원으로 -46.2% 하향 조정",
+        "3Q26 매출 1조 2,747억원(QoQ -4%), 영업이익 402억원(QoQ -58%)으로 원가 상승 및 환율 하락 영향에 컨센서스 하회",
+        "석유수지 및 아라미드 원가 부담이 지속되었으나, CPI 풀가동 및 IT 소재 성장이 일부 감익 상쇄"
+      ],
+      "risk_point": "고가 원재료 투입에 따른 역래깅 효과 및 유가/환율 변동성 상존",
+      "pdf_url": "https://stock.pstatic.net/stock-research/company/66/20261125_company_530349000.pdf",
+      "detail_url": "https://stock.naver.com/research/company/98481"
+    },
+    {
+      "report_id": "S4",
+      "stock_name": "CJ제일제당",
+      "stock_code": "097950",
+      "broker": "하나증권",
+      "write_date": "2026-11-25",
+      "title": "잃을 것 없는 주가와 올라갈 실적",
+      "tag": "실적/리스크 주의",
+      "opinion": "Buy",
+      "goal_price": 370000,
+      "prev_goal_price": 370000,
+      "price_at_write": 180200,
+      "goal_change_pct": 0.0,
+      "upside_pct": 105.3,
+      "read_count": 2814,
+      "key_points": [
+        "목표주가 370,000원 유지, 12M Fwd PBR 0.4배 수준으로 역사적 밴드 하단 저평가 상태",
+        "2027년 물류 제외 연결 영업이익 8,000억원 내외로 국내외 식품 기저효과 및 바이오 시황 개선 수혜 기대"
+      ],
+      "risk_point": "바이오 시황 회복 속도 지연 및 원재료 가격 변동 리스크",
+      "pdf_url": "https://stock.pstatic.net/stock-research/company/57/20261125_company_903219000.pdf",
+      "detail_url": "https://stock.naver.com/research/company/98466"
+    },
+    {
+      "report_id": "S5",
+      "stock_name": "지에프아이",
+      "stock_code": "493330",
+      "broker": "유진투자증권",
+      "write_date": "2026-11-25",
+      "title": "IR 後記: ESS, UPS 부품주로 절대적인 저평가",
+      "tag": "신규 커버리지",
+      "opinion": "없음",
+      "goal_price": null,
+      "prev_goal_price": null,
+      "price_at_write": 8000,
+      "goal_change_pct": null,
+      "upside_pct": null,
+      "read_count": 1508,
+      "key_points": [
+        "ESS 및 UPS 스마트 화재안전 솔루션(마이크로캡슐 'AEGIS', DI-KIT) 전문 기업으로 저평가 상태",
+        "DI-KIT 매출 2023년 36억원 → 2024년 98억원 → 2025년 187억원으로 급증하며 실적 성장 견인",
+        "2027년 예상 매출액 870억원(YoY +21.6%), 영업이익 152억원(YoY +24.2%) 전망"
+      ],
+      "risk_point": "주요 고객사 S사 의존도 및 해외(중국/일본) 시장 진출 성과 미달 위험",
+      "pdf_url": "https://stock.pstatic.net/stock-research/company/63/20261125_company_928339000.pdf",
+      "detail_url": "https://stock.naver.com/research/company/98464"
+    },
+    {
+      "report_id": "S6",
+      "stock_name": "LS머트리얼즈",
+      "stock_code": "417200",
+      "broker": "DS투자증권",
+      "write_date": "2026-11-25",
+      "title": "27년 주목할 턴어라운드 기업",
+      "tag": "턴어라운드/재평가",
+      "opinion": "매수",
+      "goal_price": 14000,
+      "prev_goal_price": null,
+      "price_at_write": 9150,
+      "goal_change_pct": null,
+      "upside_pct": 53.0,
+      "read_count": 2718,
+      "key_points": [
+        "투자의견 매수, 목표주가 14,000원 신규 제시",
+        "2027년 AIDC 연료전지용 UC 물량 689억원 수주 확보 및 전방 산업 확대에 따른 매출 성장 기대",
+        "주요 자회사의 적자 폭 축소로 2027년 전반적인 이익 회복 및 턴어라운드 본격화 전망"
+      ],
+      "risk_point": "자회사 적자 축소 지연 및 추가 수주 확정 시점 변동 가능성",
+      "pdf_url": "https://stock.pstatic.net/stock-research/company/66/20261125_company_464462000.pdf",
+      "detail_url": "https://stock.naver.com/research/company/98483"
+    }
+  ],
+  "watch_points": [
+    "엔비디아 급락 및 미 기술주 차익실현에 따른 국내 반도체·AI 관련주 변동성 확대 여부",
+    "미국의 한국 및 중국 대상 관세 인상 준비 소식에 따른 수출주 영향 점검",
+    "목표가 하향 종목(에이디테크놀로지, 롯데관광개발 등)의 단기 실적 이연 악재 선반영 여부 확인"
+  ]
+}
