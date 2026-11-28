@@ -1,0 +1,380 @@
+{
+  "briefing_date": "2026-11-28",
+  "effective_dates": [
+    "2026-11-27"
+  ],
+  "generated_at": "2026-11-28 16:46 KST",
+  "total_scanned": 118,
+  "selected_count": 20,
+  "model_used": "gemini-3.5-flash",
+  "headline": "미 증시 휴장 속 지정학적 리스크 지속, 실적·수주 모멘텀 주목",
+  "market_mood": "혼조",
+  "kakao_summary": "[11/28 증권 리포트]\n시황: 미 휴장 속 지정학 긴장·고유가 부담, 반도체 저가 매수 주목\n상향: SK스퀘어(+823%), 한미약품(+70%), 롯데리츠(+22.5%)\n이슈: K뷰티 블프 호조, TGV/ASIC 등 반도체 부품·소재 기술력 관심",
+  "market_overview": [
+    "미국 증시는 추수감사절로 휴장한 가운데 유럽 증시는 대EU 추가 관세 우려 완화 및 통화정책 연속성 기대감에 상승했습니다.",
+    "중동 지역의 지정학적 긴장감 고조로 WTI 유가가 1.47% 상승하며 고유가가 국내 물가 및 금리 부담 요인으로 작용하고 있습니다.",
+    "국내 증시는 보합 출발이 예상되며, 엔비디아의 중국향 연산 자원 공급 제한 우려 속에서 반도체 대형주에 저가 매수세가 들어올지가 변수입니다.",
+    "미국 기술주 약세 속에서도 소재·산업재 등 경기민감주와 중소형주(러셀2000 +0.71%)로의 자금 이동이 관측되었습니다."
+  ],
+  "market_sources": [
+    {
+      "report_id": "M1",
+      "title": "Daily Morning Brief(2026.11.27)",
+      "broker": "다올투자증권",
+      "category": "market",
+      "write_date": "2026-11-27",
+      "pdf_url": "https://stock.pstatic.net/stock-research/market/-/20261127_market_971114000.pdf",
+      "detail_url": "https://stock.naver.com/research/daily/38321"
+    },
+    {
+      "report_id": "M2",
+      "title": "Daily 신한생각 (11월 27일)",
+      "broker": "신한투자증권",
+      "category": "market",
+      "write_date": "2026-11-27",
+      "pdf_url": "https://stock.pstatic.net/stock-research/market/-/20261127_market_395823000.pdf",
+      "detail_url": "https://stock.naver.com/research/daily/38322"
+    },
+    {
+      "report_id": "M3",
+      "title": "유안타 AI 미국 주식시장 마감 시황 (26.11.27)",
+      "broker": "유안타증권",
+      "category": "market",
+      "write_date": "2026-11-27",
+      "pdf_url": "https://stock.pstatic.net/stock-research/market/18/20261127_market_436490000.pdf",
+      "detail_url": "https://stock.naver.com/research/daily/38328"
+    },
+    {
+      "report_id": "M4",
+      "title": "[DS Defense Daily] 2026-11-27",
+      "broker": "DS투자증권",
+      "category": "market",
+      "write_date": "2026-11-27",
+      "pdf_url": "https://stock.pstatic.net/stock-research/market/66/20261127_market_489282000.pdf",
+      "detail_url": "https://stock.naver.com/research/daily/38329"
+    },
+    {
+      "report_id": "M5",
+      "title": "[Market Time] 미 증시 휴장 속 수급 점검",
+      "broker": "iM증권",
+      "category": "market",
+      "write_date": "2026-11-27",
+      "pdf_url": "https://stock.pstatic.net/stock-research/market/61/20261127_market_367397000.pdf",
+      "detail_url": "https://stock.naver.com/research/daily/38320"
+    }
+  ],
+  "sector_highlights": [
+    {
+      "report_id": "I1",
+      "sector": "게임",
+      "title": "[IBKS Daily] 인터넷/게임",
+      "broker": "IBK투자증권",
+      "write_date": "2026-11-27",
+      "summary": "카카오게임즈는 '오딘: 발할라 라이징'의 12월 대형 업데이트와 중국 진출을 추진 중이며, 후속작 '오딘Q'를 2027년 1월 한국·대만·일본에 출시할 계획입니다. 오딘Q는 쿼터뷰와 강화된 PvP로 하드코어 이용자를 타깃합니다.",
+      "impact": "과금 구조와 경쟁 콘텐츠 운영 수준이 신작 흥행의 핵심 변수로 작용할 전망입니다.",
+      "pdf_url": "https://stock.pstatic.net/stock-research/industry/40/20261127_industry_114739000.pdf",
+      "detail_url": "https://stock.naver.com/research/industry/47250"
+    },
+    {
+      "report_id": "I2",
+      "sector": "통신",
+      "title": "SKT/KMW 적극 매수하세요",
+      "broker": "하나증권",
+      "write_date": "2026-11-27",
+      "summary": "SKT는 시중 금리 하락과 2027년 비과세 배당 시행에 따라 세후 5% 이상의 높은 배당수익률로 하방경직성을 보유하고 있습니다. KMW는 2027년 미국 및 국내 주파수 경매, 삼성전자 벤더 선정 유력 등으로 실적 턴어라운드가 기대됩니다.",
+      "impact": "SKT는 고배당 매력, KMW는 미국 5G/6G 투자 개화에 따른 적극 매수 전략이 유효합니다.",
+      "pdf_url": "https://stock.pstatic.net/stock-research/industry/57/20261127_industry_240045000.pdf",
+      "detail_url": "https://stock.naver.com/research/industry/47262"
+    },
+    {
+      "report_id": "I3",
+      "sector": "로봇/방산/조선",
+      "title": "안녕하세요 데일리에요 (로봇/방산/조선)",
+      "broker": "유진투자증권",
+      "write_date": "2026-11-27",
+      "summary": "삼성전자가 DS부문 내 로보틱스팀과 M&A 전담조직을 신설하는 등 로봇 인재 확보에 나섰습니다. 방산 부문에서는 한화에어로가 자주도하장비 KM3 수출권을 확보했으며, 조선 부문에서는 LNG 용선료 급락 이슈가 존재합니다.",
+      "impact": "삼성의 로봇 사업 강화 움직임 및 주요 방산 업체의 수출권 확보 소식이 관련주 모멘텀을 자극합니다.",
+      "pdf_url": "https://stock.pstatic.net/stock-research/industry/63/20261127_industry_616288000.pdf",
+      "detail_url": "https://stock.naver.com/research/industry/47258"
+    },
+    {
+      "report_id": "I4",
+      "sector": "화장품",
+      "title": "역대급 블프, K뷰티 존재감 Up",
+      "broker": "신한투자증권",
+      "write_date": "2026-11-27",
+      "summary": "블랙프라이데이 역대급 수요에 힘입어 11월 1~20일 화장품 수출이 전년 대비 62% 증가하며 초강세를 지속하고 있습니다. ODM 3사 주가는 주식시장 변동성 확대 속에서도 평균 26% 상승하며 견조한 방어력을 시현했습니다.",
+      "impact": "미국과 유럽 향 수출 호조로 화장품 섹터, 특히 ODM 업체의 우수한 주가 흐름이 이어질 전망입니다.",
+      "pdf_url": "https://www.shinhansec.com/siw/insights/research/list/view-popup.do",
+      "detail_url": "https://stock.naver.com/research/industry/47252"
+    }
+  ],
+  "target_up_picks": [
+    {
+      "report_id": "U1",
+      "stock_name": "SK스퀘어",
+      "stock_code": "402340",
+      "broker": "DS투자증권",
+      "write_date": "2026-11-27",
+      "title": "당초 계획의 14배 넘는 주주환원 결정",
+      "tag": "목표가 상향",
+      "opinion": "매수",
+      "goal_price": 1200000,
+      "prev_goal_price": 130000,
+      "price_at_write": 652000,
+      "goal_change_pct": 823.1,
+      "upside_pct": 84.0,
+      "read_count": 8522,
+      "key_points": [
+        "3Q26 영업이익 7조 9,406억원(+200.2% YoY) 기록",
+        "SK하이닉스 영업이익 대폭 증가(83.3조원)에 따른 지분법 손익 수혜",
+        "당초 계획 대비 14배가 넘는 강력한 주주환원 정책 결정"
+      ],
+      "risk_point": "SK하이닉스 순이익 변화 및 ADR 신주 발행 등 지분변동 이슈에 따른 지분법 손익 변동성 유의",
+      "pdf_url": "https://stock.pstatic.net/stock-research/company/66/20261127_company_769694000.pdf",
+      "detail_url": "https://stock.naver.com/research/company/98544"
+    },
+    {
+      "report_id": "U2",
+      "stock_name": "한미약품",
+      "stock_code": "128940",
+      "broker": "SK증권",
+      "write_date": "2026-11-27",
+      "title": "기술이전으로 증명한 R&D 경쟁력",
+      "tag": "목표가 상향",
+      "opinion": "매수",
+      "goal_price": 630000,
+      "prev_goal_price": 370000,
+      "price_at_write": 466500,
+      "goal_change_pct": 70.3,
+      "upside_pct": 35.0,
+      "read_count": 2007,
+      "key_points": [
+        "3Q26 별도 매출 2,915억원(+8.3% YoY), 로수젯 등 주력 품목 호조",
+        "기술이전 선급금 인식으로 2026년 영업이익 5,250억원(+103.6% YoY) 대폭 증가 전망",
+        "2027년 비만 신약 '에페'의 국내 매출 성장에 따른 이익 기여 기대"
+      ],
+      "risk_point": "3Q26 북경한미 영업이익 59억원(-75.1% YoY)으로 부진하며 4분기까지 영향 지속 가능성",
+      "pdf_url": "https://stock.pstatic.net/stock-research/company/64/20261127_company_995842000.pdf",
+      "detail_url": "https://stock.naver.com/research/company/98535"
+    },
+    {
+      "report_id": "U3",
+      "stock_name": "롯데리츠",
+      "stock_code": "330590",
+      "broker": "신한투자증권",
+      "write_date": "2026-11-27",
+      "title": "안정성에 더해 성장성 추가되는 중",
+      "tag": "목표가 상향",
+      "opinion": "매수",
+      "goal_price": 4900,
+      "prev_goal_price": 4000,
+      "price_at_write": 3480,
+      "goal_change_pct": 22.5,
+      "upside_pct": 40.8,
+      "read_count": 1504,
+      "key_points": [
+        "계열사 임차인 기반의 안정적인 리파이낸싱과 호텔 임대료 수익 방어력 보유",
+        "2026년 1월 롯데호텔 L7 편입 등 어려운 업황 속에서도 신규 자산 매입 검토",
+        "금리 인상 기조에도 상대적 투자 우위 및 배당 안정성 유효"
+      ],
+      "risk_point": "금리 인상 장기화 시 전반적인 상장 리츠 배당수익률 둔화 우려",
+      "pdf_url": "https://stock.pstatic.net/stock-research/company/21/20261127_company_290808000.pdf",
+      "detail_url": "https://stock.naver.com/research/company/98522"
+    },
+    {
+      "report_id": "U4",
+      "stock_name": "현대엘리베이터",
+      "stock_code": "017800",
+      "broker": "DS투자증권",
+      "write_date": "2026-11-27",
+      "title": "높은 주주환원율 유지",
+      "tag": "목표가 상향",
+      "opinion": "매수",
+      "goal_price": 110000,
+      "prev_goal_price": 98000,
+      "price_at_write": 62500,
+      "goal_change_pct": 12.2,
+      "upside_pct": 76.0,
+      "read_count": 4094,
+      "key_points": [
+        "3Q26 연결 매출 6,042억원(+1% YoY), 서비스 부문 영업이익 297억원(+10% YoY)으로 이익 방어",
+        "유지보수 서비스 부문의 누적 영업이익률 17.5% 기록하며 견조한 실적 유지",
+        "높은 주주환원율 지속으로 투자 매력 유지"
+      ],
+      "risk_point": "국내 승강기 설치 대수 감소 여파로 3Q26 제조 부문 영업이익이 91억원에 그치는 등 판가 하락세 지속",
+      "pdf_url": "https://stock.pstatic.net/stock-research/company/66/20261127_company_132382000.pdf",
+      "detail_url": "https://stock.naver.com/research/company/98552"
+    },
+    {
+      "report_id": "U5",
+      "stock_name": "티씨케이",
+      "stock_code": "064760",
+      "broker": "유안타증권",
+      "write_date": "2026-11-27",
+      "title": "쌓이는 수주, 비어가는 재고",
+      "tag": "목표가 상향",
+      "opinion": "Buy",
+      "goal_price": 310000,
+      "prev_goal_price": 300000,
+      "price_at_write": 157900,
+      "goal_change_pct": 3.3,
+      "upside_pct": 96.3,
+      "read_count": 4087,
+      "key_points": [
+        "4Q26 예상 영업이익 319억원(+72.2% YoY, OPM 27.6%)으로 마진 개선 지속",
+        "3Q26말 수주잔고 2,451억원(분기 매출의 2.2배) 보유, 낸드 식각 투자 본격화 수혜",
+        "고부가 샤워헤드 제품 비중 확대 및 대만/북미 파운드리향 Solid SiC 수요 증가"
+      ],
+      "risk_point": "원/달러 환율 하락에 따른 환율 부담 존재",
+      "pdf_url": "https://stock.pstatic.net/stock-research/company/18/20261127_company_787150000.pdf",
+      "detail_url": "https://stock.naver.com/research/company/98540"
+    }
+  ],
+  "issue_stock_picks": [
+    {
+      "report_id": "S1",
+      "stock_name": "켐트로닉스",
+      "stock_code": "089010",
+      "broker": "신한투자증권",
+      "write_date": "2026-11-27",
+      "title": "결실을 기다리며",
+      "tag": "목표가 하향",
+      "opinion": "매수",
+      "goal_price": 30000,
+      "prev_goal_price": 49000,
+      "price_at_write": 16480,
+      "goal_change_pct": -38.8,
+      "upside_pct": 82.0,
+      "read_count": 1660,
+      "key_points": [
+        "8.6세대 IT OLED 식각 물량 확대 및 반도체 소재 가동률 상승 기조 유지",
+        "2028년 양산 목표인 유리기판 TGV 가공용 신규 금속 충진 기술 개발 진전"
+      ],
+      "risk_point": "전자부품 및 전장 사업 부진으로 단기 실적 눈높이 하향 불가피",
+      "pdf_url": "https://stock.pstatic.net/stock-research/company/21/20261127_company_506960000.pdf",
+      "detail_url": "https://stock.naver.com/research/company/98525"
+    },
+    {
+      "report_id": "S2",
+      "stock_name": "파라다이스",
+      "stock_code": "034230",
+      "broker": "유안타증권",
+      "write_date": "2026-11-27",
+      "title": "주가 부진에 가려진 복합 리조트 성장세",
+      "tag": "목표가 하향",
+      "opinion": "Buy",
+      "goal_price": 14000,
+      "prev_goal_price": 20000,
+      "price_at_write": 11650,
+      "goal_change_pct": -30.0,
+      "upside_pct": 20.2,
+      "read_count": 3929,
+      "key_points": [
+        "3Q26 영업이익 641억원(+62.3% YoY)으로 컨센서스(545억원)를 17.6% 상회",
+        "하얏트 리젠시 흑자전환(OP 6억원) 및 카지노 순매출액 역대 최대(2,675억원) 달성"
+      ],
+      "risk_point": "중국인 VIP 드롭액이 전년 대비 9.3% 감소하며 부진 지속",
+      "pdf_url": "https://stock.pstatic.net/stock-research/company/18/20261127_company_818696000.pdf",
+      "detail_url": "https://stock.naver.com/research/company/98539"
+    },
+    {
+      "report_id": "S3",
+      "stock_name": "두산로보틱스",
+      "stock_code": "454910",
+      "broker": "iM증권",
+      "write_date": "2026-11-27",
+      "title": "수주를 통한 증명이 필요할 27년",
+      "tag": "목표가 하향",
+      "opinion": "Buy",
+      "goal_price": 70000,
+      "prev_goal_price": 125000,
+      "price_at_write": 51700,
+      "goal_change_pct": -44.0,
+      "upside_pct": 35.4,
+      "read_count": 1729,
+      "key_points": [
+        "자동화 솔루션 부문 매출 99억원(+462.6% YoY)으로 성장을 견인하며 누적 매출 비중 51% 차지",
+        "2026년 연간 매출액 전년 대비 100% 이상 성장 목표 유지"
+      ],
+      "risk_point": "3Q26 영업적자 134억원 지속, 해외 협동로봇 수출 감소 및 수주잔고 축소로 4Q 신규 수주 확인 필수",
+      "pdf_url": "https://stock.pstatic.net/stock-research/company/61/20261127_company_433743000.pdf",
+      "detail_url": "https://stock.naver.com/research/company/98528"
+    },
+    {
+      "report_id": "S4",
+      "stock_name": "동아제약",
+      "stock_code": "000640",
+      "broker": "DS투자증권",
+      "write_date": "2026-11-27",
+      "title": "동아제약을 품은 동아쏘시오홀딩스",
+      "tag": "실적 호조",
+      "opinion": "매수",
+      "goal_price": 150000,
+      "prev_goal_price": null,
+      "price_at_write": 90300,
+      "goal_change_pct": null,
+      "upside_pct": 66.1,
+      "read_count": 1841,
+      "key_points": [
+        "동아쏘시오홀딩스가 동아제약을 흡수합병해 지주사 디스카운트 해소",
+        "피부외용제(노스카나) 및 화장품(파티온) 중심 20~30%대 고성장세 지속",
+        "용마로지스 K-뷰티 열풍 수혜로 2026년 10% 이상 성장 기대"
+      ],
+      "risk_point": "합병 이후 사업부별 실적 연착륙 여부 모니터링 필요",
+      "pdf_url": "https://stock.pstatic.net/stock-research/company/66/20261127_company_206612000.pdf",
+      "detail_url": "https://stock.naver.com/research/company/98556"
+    },
+    {
+      "report_id": "S5",
+      "stock_name": "세미파이브",
+      "stock_code": "490470",
+      "broker": "키움증권",
+      "write_date": "2026-11-27",
+      "title": "Make ASIC Great Again",
+      "tag": "실적 호조",
+      "opinion": "Buy",
+      "goal_price": 20000,
+      "prev_goal_price": 20000,
+      "price_at_write": 10610,
+      "goal_change_pct": 0.0,
+      "upside_pct": 88.5,
+      "read_count": 1793,
+      "key_points": [
+        "3Q26 신규 수주 1,784억원(+437% YoY), 수주잔고 2,455억원으로 가시성 확보",
+        "AI HPC 및 디바이스향 ASIC 양산 매출이 1Q 35억원 -> 3Q 120억원으로 급증"
+      ],
+      "risk_point": "3Q26 영업이익 -97억원으로 적자 지속 및 IP 납품 일정 조정에 따른 매출 이연 발생",
+      "pdf_url": "https://stock.pstatic.net/stock-research/company/39/20261127_company_978506000.pdf",
+      "detail_url": "https://stock.naver.com/research/company/98521"
+    },
+    {
+      "report_id": "S6",
+      "stock_name": "LG씨엔에스",
+      "stock_code": "064400",
+      "broker": "SK증권",
+      "write_date": "2026-11-27",
+      "title": "본업의 안정성 + AI의 확장성",
+      "tag": "실적 호조",
+      "opinion": "매수",
+      "goal_price": 91000,
+      "prev_goal_price": 91000,
+      "price_at_write": 66000,
+      "goal_change_pct": 0.0,
+      "upside_pct": 37.9,
+      "read_count": 2213,
+      "key_points": [
+        "금융권 차세대 시스템(DBS) 구축 본격화로 3Q26 매출 성장률 +21.3% 확대",
+        "기업들의 AI 도입 및 AIDC 구축 수요 확대로 AI·클라우드 부문 견조한 성장"
+      ],
+      "risk_point": "계열사의 북미 스마트팩토리 투자 축소 위험 방어가 지속적인 과제",
+      "pdf_url": "https://stock.pstatic.net/stock-research/company/64/20261127_company_689101000.pdf",
+      "detail_url": "https://stock.naver.com/research/company/98527"
+    }
+  ],
+  "watch_points": [
+    "중동 분쟁 고조에 따른 유가 상승이 국내 물가 및 한은 금리 인상 경계감에 미치는 영향 점검",
+    "미국 기술주 약세 속 반도체 대형주(삼성전자, SK하이닉스)로의 저가 매수세 유입 여부 확인",
+    "블랙프라이데이 수혜를 입은 화장품 ODM주 및 개별 수주 모멘텀을 보유한 부품·소재 종목 대응"
+  ]
+}
